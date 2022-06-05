@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rechni/static/css/main.bcab903a.css",
+    "main.js": "/Rechni/static/js/main.f15a0bf8.js",
+    "static/js/787.11637bb8.chunk.js": "/Rechni/static/js/787.11637bb8.chunk.js",
+    "service-worker.js": "/Rechni/service-worker.js",
+    "index.html": "/Rechni/index.html",
+    "main.bcab903a.css.map": "/Rechni/static/css/main.bcab903a.css.map",
+    "main.f15a0bf8.js.map": "/Rechni/static/js/main.f15a0bf8.js.map",
+    "787.11637bb8.chunk.js.map": "/Rechni/static/js/787.11637bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcab903a.css",
+    "static/js/main.f15a0bf8.js"
+  ]
+}
